@@ -1,5 +1,5 @@
 # belajar-kotlin-dasar
-Belajar Kotlin Dasar
+Belajar Kotlin Dasar, di dalam sourcode ini terdapat pembelajaran kotlin dari 0 atau lebih jelasnya ke youtube mentor saya Eko kurniawan (Programmer zaman Now)
 
 ## Aplikasi yang digunakan 
 
