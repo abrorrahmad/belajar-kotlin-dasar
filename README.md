@@ -1,6 +1,10 @@
 # belajar-kotlin-dasar
 Belajar Kotlin Dasar
 
+## Aplikasi yang digunakan 
+
+IntelliJ IDEA
+
 ## Fitur
 1. berisi kode bahasa pemrograman kotlin
 2. mudah dipahami
